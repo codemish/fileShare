@@ -5,8 +5,8 @@ module.exports = async ({ from, to, subject, text, html}) => {
             port: 587,
             secure: false, // true for 465, false for other ports
             auth: {
-                user: "nimish.khandelwal29@gmail.com", // generated ethereal user
-                pass: "TzUgG93FDf5dOsPB", // generated ethereal password
+                user: "**", // generated ethereal user
+                pass: "***", // generated ethereal password
             },
         });
 
